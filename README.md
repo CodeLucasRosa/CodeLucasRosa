@@ -118,11 +118,3 @@
 <h1 align="left"></h1>
 
 ###
-
-<h3 align="center">Bônus</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/CodeLucasRosa/CodeLucasRosa/output/snake.svg" alt="Snake animation" />
-
-###
