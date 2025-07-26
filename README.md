@@ -4,7 +4,11 @@
 
 ###
 
-<h1 align="left">🍏 Sobre Mim</h1>
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">🍏 Sobre Mim</h3>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<p align="left">🟢 Atuo com desenvolvimento front-end e criação de interfaces usando HTML e CSS, enquanto começo minha jornada rumo ao back-end.<br><br>🌱 Dando os primeiros passos na faculdade de Ciência da Computação.<br><br>🌿 Aprendendo os fundamentos do desenvolvimento web com o objetivo de me tornar um desenvolvedor full stack.<br><br>📗 Fale comigo sobre: HTML, CSS, front-end, e minha jornada como iniciante no mundo full stack.<br><br>🍀 Tenho curiosidade em aprender mais sobre JavaScript, APIs, back-end e futuramente até Inteligência Artificial e Automação.<br><br>✅ Aprendo no meu ritmo, sempre buscando entregar com qualidade e dedicação.<br><br>amo Mac DeMarco</p>
+<p align="left">🟢 Atuo com desenvolvimento front-end e criação de interfaces usando HTML e CSS, enquanto começo minha jornada rumo ao back-end.<br>🌱 Dando os primeiros passos na faculdade de Ciência da Computação.<br>🌿 Aprendendo os fundamentos do desenvolvimento web com o objetivo de me tornar um desenvolvedor full stack.<br>📗 Fale comigo sobre: HTML, CSS, front-end, e minha jornada como iniciante no mundo full stack.<br>🍀 Tenho curiosidade em aprender mais sobre JavaScript, APIs, back-end e futuramente até Inteligência Artificial e Automação.<br>✅ Aprendo no meu ritmo, sempre buscando entregar com qualidade e dedicação.<br><br>amo Mac DeMarco</p>
 
 ###
 
@@ -119,10 +123,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeLucasRosa/CodeLucasRosa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeLucasRosa/CodeLucasRosa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeLucasRosa/CodeLucasRosa/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/CodeLucasRosa/CodeLucasRosa/output/snake.svg" alt="Snake animation" />
 
 ###
