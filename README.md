@@ -14,9 +14,7 @@
 
 ###
 
-<p align="left">🟢 Atuo com desenvolvimento front-end e criação de interfaces usando HTML e CSS, enquanto começo minha jornada rumo ao back-end.<br><br>🌱 Dando os primeiros passos na faculdade de Ciência da Computação.<br><br>🌿 Aprendendo os fundamentos do desenvolvimento web com o objetivo de me tornar um desenvolvedor full stack.<br><br>📗 Fale comigo sobre: HTML, CSS, front-end, e minha jornada como iniciante no mundo full stack.<br><br>🍀 Tenho curiosidade em aprender mais sobre JavaScript, APIs, back-end e futuramente até Inteligência Artificial e Automação.<br><br>✅ Aprendo no meu ritmo, sempre buscando entregar com qualidade e dedicação.<br><br>E, amo Mac DeMarco</p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8fn50k2f06x79jemlcj3s1211&width={width})
+<p align="left">🟢 Atuo com desenvolvimento front-end e criação de interfaces usando HTML e CSS, enquanto começo minha jornada rumo ao back-end.<br><br>🌱 Dando os primeiros passos na faculdade de Ciência da Computação.<br><br>🌿 Aprendendo os fundamentos do desenvolvimento web com o objetivo de me tornar um desenvolvedor full stack.<br><br>📗 Fale comigo sobre: HTML, CSS, front-end, e minha jornada como iniciante no mundo full stack.<br><br>🍀 Tenho curiosidade em aprender mais sobre JavaScript, APIs, back-end e futuramente até Inteligência Artificial e Automação.<br><br>✅ Aprendo no meu ritmo, sempre buscando entregar com qualidade e dedicação.<br><br>amo Mac DeMarco</p>
 
 ###
 
